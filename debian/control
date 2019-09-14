@@ -1,0 +1,15 @@
+Source: checkmypub
+Section: unknown
+Priority: optional
+Maintainer: mh4nx7net <androxoss@hotmail.com>
+Build-Depends: debhelper (>= 11)
+Standards-Version: 4.1.3
+Homepage: https://terdampar.space
+#Vcs-Browser: https://salsa.debian.org/debian/checkmypub
+Vcs-Git: https://github.com/mh4nx7net/checkmypub.git
+
+Package: checkmypub
+Architecture: all
+Depends: ${misc:Depends}
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
